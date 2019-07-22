@@ -1,2 +1,2 @@
 # Android-HelloWorld
-AndroidアプリでHelloWorld
+AndroidアプリでHelloWorldをやりました〜
